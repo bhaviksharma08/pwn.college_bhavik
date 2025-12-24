@@ -2,14 +2,14 @@
 
 ## Module 3: Comprehending Commands
 
-### Challenge 1:
-**Objective: **
+### Challenge 5:Comparing files
 
-**Commands + Output:**
+**Command**
 ```bash
-
+diff /challenge/decoys_only.txt /challenge/decoys_and_real.txt
+72a73
+> pwn.college{8VGr_moXMz_FM_mUpSgzcfwA2uA.01MwMDOxwCMwAzNzEzW}
 ```
 
-**Learnings:**
-
 **Flag:**
+pwn.college{8VGr_moXMz_FM_mUpSgzcfwA2uA.01MwMDOxwCMwAzNzEzW}
