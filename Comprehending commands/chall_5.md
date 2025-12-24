@@ -4,7 +4,7 @@
 
 ### Challenge 5:Comparing files
 
-**Command**
+**Command + Output:**
 ```bash
 diff /challenge/decoys_only.txt /challenge/decoys_and_real.txt
 72a73
