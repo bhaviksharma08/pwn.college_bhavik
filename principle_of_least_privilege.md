@@ -1,0 +1,3 @@
+- The principle of least privilege is basically a security idea that states that users, programs, and systems should get minimum access needed to do their job, nothing extra.
+- If extra access is provided than needed, then it carries security risks as the personnel or system may not be trusted or trained to deal with more confidential stuff, leading to security breaches, hacks or shutdowns.
+- Now, putting this principle into practice requires constant attention, not just a one-time setup. Access rights need to be checked regularly, updated when people's roles change, and removed quickly when they're no longer needed. When someone needs temporary extra access for a specific task, those privileges should go back to normal once the task is done.
