@@ -2,8 +2,7 @@
 
 ## Module 3: Comprehending Commands
 
-### Challenge 1:
-**Objective: **
+### Challenge 7: touching files
 
 **Commands + Output:**
 ```bash
