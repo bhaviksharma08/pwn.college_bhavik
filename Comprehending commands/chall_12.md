@@ -2,14 +2,13 @@
 
 ## Module 3: Comprehending Commands
 
-### Challenge 1:
-**Objective: **
+### Challenge 12: An Epic Filesystem Quest
 
-**Commands + Output:**
-```bash
+[ss1.jpg]
+[ss2.jpg]
+[ss3.jpg]
+[ss4.jpg]
 
-```
-
-**Learnings:**
+After this, it just got repetitive. I followed the same pattern in commands until i found the flag
 
 **Flag:**
