@@ -4,10 +4,10 @@
 
 ### Challenge 12: An Epic Filesystem Quest
 
-(ss1)[./ss1.jpg]   
-(ss2)[./ss2.jpg]   
-(ss3)[./ss3.jpg]   
-(ss4)[./ss4.jpg]   
+![](./ss1.jpg)
+![](./ss2.jpg)
+![](./ss3.jpg)
+![](./ss4.jpg)
 
 After this, it just got repetitive. I followed the same pattern in commands until i found the flag
 
